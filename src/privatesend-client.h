@@ -146,7 +146,7 @@ private:
 
 public:
     int nPrivateSendRounds;
-    int64_t nPrivateSendAmount;
+    int nPrivateSendAmount;
     int nLiquidityProvider;
     bool fEnablePrivateSend;
     bool fPrivateSendMultiSession;
